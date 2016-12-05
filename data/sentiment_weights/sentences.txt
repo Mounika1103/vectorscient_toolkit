@@ -1,0 +1,12 @@
+"can't be any better"	3
+"Nothing is impossible"	5
+"couldn't agree more"	4
+"The evidence is certainly not irrefutable"	4
+"This gem is not uncommon"	1
+"The results are not inconclusive"	5
+"His rebuttal was clearly not nonsensical"	5
+"The price of the car is not insignificant"	3
+"It is not unnecessary to tell the truth all the time"	5
+"The new disease wasn't non-infectious"	-5
+"He wasn't irresponsible about his duties"	5
+

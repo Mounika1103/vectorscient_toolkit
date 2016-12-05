@@ -1,0 +1,250 @@
+{
+   "id": "416390918442485",
+   "name": "JCPenney",
+   "likes": {
+      "data": [
+         {
+            "name": "Van Heusen",
+            "id": "60316775999"
+         },
+         {
+            "name": "Vanity Fair Lingerie",
+            "id": "90420197319"
+         },
+         {
+            "name": "John Gidding",
+            "id": "9413241483"
+         },
+         {
+            "name": "David Bromstad",
+            "id": "77983657668"
+         },
+         {
+            "name": "Sabrina Soto",
+            "id": "73052852392"
+         },
+         {
+            "name": "John Gidding",
+            "id": "109843545700277"
+         },
+         {
+            "name": "Alison Victoria",
+            "id": "190107877738832"
+         },
+         {
+            "name": "Web City Girls",
+            "id": "155149114221"
+         },
+         {
+            "name": "Texas Scottish Rite Hospital For Children",
+            "id": "296795742027"
+         },
+         {
+            "name": "The Busy Dad Blog",
+            "id": "147540765341975"
+         },
+         {
+            "name": "DadDoes",
+            "id": "131694766843644"
+         },
+         {
+            "name": "Dad of Divas",
+            "id": "17641698908"
+         },
+         {
+            "name": "Dad or Alive",
+            "id": "134488289926087"
+         },
+         {
+            "name": "Dadand",
+            "id": "189362301105773"
+         },
+         {
+            "name": "HowToBeADad",
+            "id": "136742403019678"
+         },
+         {
+            "name": "Life of Dad",
+            "id": "299622516426"
+         },
+         {
+            "name": "One Small Blonde",
+            "id": "401076569965249"
+         },
+         {
+            "name": "Love You, Mean It",
+            "id": "304957489560634"
+         },
+         {
+            "name": "Style of Sam",
+            "id": "108108552616815"
+         },
+         {
+            "name": "One Good Thing By Jillee",
+            "id": "189361827820344"
+         },
+         {
+            "name": "Hands On As We Grow",
+            "id": "169335306442532"
+         },
+         {
+            "name": "Ma Nouvelle Mode",
+            "id": "164557060266876"
+         },
+         {
+            "name": "Foodie With Family",
+            "id": "223004433526"
+         },
+         {
+            "name": "The Noshery",
+            "id": "83722057853"
+         },
+         {
+            "name": "Ingrid Hoffmann",
+            "id": "151315623555"
+         }
+      ],
+      "paging": {
+         "cursors": {
+            "before": "NjAzMTY3NzU5OTkZD",
+            "after": "MTUxMzE1NjIzNTU1"
+         },
+         "next": "https://graph.facebook.com/v2.6/416390918442485/likes?access_token=EAAOt19E3ZCckBAJm1rUB5YXKmaxrfZC8IPwiyo6QC5SVS90KknjZAP5kCZB4tLzxSMJ0ryDhlntqYDN6O520UIx1CQZC089QhAEJwQ5wMEW7j7PSgd5eBNKSqtZBJtPuAVbIcye40mIV8UxsT4uvGZBkuaUvNWGTcgZD&pretty=1&limit=25&after=MTUxMzE1NjIzNTU1"
+      }
+   },
+   "posts": {
+      "data": [
+         {
+            "message": "Who wins this game of HORSE? Kenny Smith, Buddy Hield & Kris Dunn play hoops and talk style before Draft Night.",
+            "created_time": "2016-06-22T16:32:27+0000",
+            "id": "416390918442485_1048435535238017"
+         },
+         {
+            "message": "Ashley Nell Tipton Design is spreading the body positive message one stylish design at a time! https://jcp.is/boutique",
+            "created_time": "2016-06-21T21:02:55+0000",
+            "id": "416390918442485_1047852675296303"
+         },
+         {
+            "message": "Self worth is feeling free to be the person you want to be. But don\u2019t just take our word for it: check out these gorgeous women living life on their terms.\n\nSpread the (self) love w/ #HereIAm!",
+            "created_time": "2016-06-20T13:00:00+0000",
+            "id": "416390918442485_1046796315401939"
+         },
+         {
+            "message": "Today we celebrate Dad. Because all those special moments are #SoWorthIt. Happy Father's Day!",
+            "created_time": "2016-06-19T14:00:00+0000",
+            "id": "416390918442485_1044679692280268"
+         },
+         {
+            "message": "Father\u2019s Day is THIS weekend! Take the plunge and scroll our Father\u2019s Day gift guide for quick ideas: http://jcp.is/1UAX71U",
+            "created_time": "2016-06-17T19:00:00+0000",
+            "id": "416390918442485_1044566995624871"
+         },
+         {
+            "message": "Because Dad needs to upgrade his 80's tracksuit. Shop in store through 6/17 for a chance to win a $200 Father's Day gift card. #TBT http://jcp.is/262JGQb",
+            "created_time": "2016-06-16T15:52:32+0000",
+            "id": "416390918442485_1044556795625891"
+         },
+         {
+            "message": "That moment when your daughter and best friend are the same person. http://jcp.is/1XUUKhd",
+            "created_time": "2016-06-14T17:10:18+0000",
+            "id": "416390918442485_1043332319081672"
+         },
+         {
+            "message": "Two words: heart-explodingly adorable. Watch how these dads celebrate #FathersDay, courtesy of #jcpSalon. http://jcp.is/1rm8K4Y",
+            "created_time": "2016-06-13T18:33:08+0000",
+            "id": "416390918442485_1042781649136739"
+         },
+         {
+            "message": "It's time to celebrate Dad. Because isn't he #SoWorthIt? Tell us all about him and shop great #FathersDay gifts here. http://jcp.is/1XLWmtC",
+            "created_time": "2016-06-10T17:59:25+0000",
+            "id": "416390918442485_1040926935988877"
+         },
+         {
+            "message": "Is Dad still dressing like a 2002 JCPenney catalog? Shop in store through 6/17 for a chance to win a $200 wardrobe upgrade for Dad. #TBT Deets: http://jcp.is/1YacDqw",
+            "created_time": "2016-06-09T16:33:55+0000",
+            "id": "416390918442485_1040225189392385"
+         },
+         {
+            "message": "Not on vacation? That doesn\u2019t mean you can\u2019t dress like it! Here\u2019s our top 3 tropical prints to take you from work to weekend. http://jcp.is/1PFQWNz",
+            "created_time": "2016-06-08T01:36:15+0000",
+            "id": "416390918442485_1039155086166062"
+         },
+         {
+            "message": "Mom's Sunday Staple? Graphic tanks. Lots of graphic tanks. http://jcp.is/1PaFsw0",
+            "created_time": "2016-06-05T16:15:01+0000",
+            "id": "416390918442485_1037673852980852"
+         },
+         {
+            "message": "Short Suit separates in non-traditional colors. Yes, please. And Thank you. http://jcp.is/1t8Hw3w",
+            "created_time": "2016-06-04T19:00:00+0000",
+            "id": "416390918442485_1037174949697409"
+         },
+         {
+            "message": "Does dad's #OOTD look like a #TBT? Shop in store on 6/5 for a chance to win a $200 upgrade, perfect for #FathersDay.",
+            "created_time": "2016-06-02T18:31:04+0000",
+            "id": "416390918442485_1035951459819758"
+         },
+         {
+            "message": "Fact: Bright is alright. Try adding a colorful handbag to your neutral look for a real pop \ud83d\udca5 http://jcp.is/1sNiI0f",
+            "created_time": "2016-06-01T22:55:24+0000",
+            "id": "416390918442485_1035426699872234"
+         },
+         {
+            "message": "A picture\u2019s worth a thousand words. But so is a great Father\u2019s Day gift. 20 days and counting! Shop now: http://jcp.is/1sZSdFw",
+            "created_time": "2016-06-01T00:02:39+0000",
+            "id": "416390918442485_1034847409930163"
+         },
+         {
+            "message": "Today we pause \u2013 and today we remember. Thank you to the men and women who paid the price for our freedom \ud83c\uddfa\ud83c\uddf8",
+            "created_time": "2016-05-30T14:00:00+0000",
+            "id": "416390918442485_1032045663543671"
+         },
+         {
+            "message": "Long weekend ahead! The kids will arrive in star-spangled style \u2013 and so should you! http://jcp.is/1TERv6O",
+            "created_time": "2016-05-27T18:40:03+0000",
+            "id": "416390918442485_1032488083499429"
+         },
+         {
+            "message": "Want to stay motivated this summer? Apply the buddy system. It\u2019s more fun with two, anyway! http://jcp.is/27UluBa",
+            "created_time": "2016-05-26T20:35:19+0000",
+            "id": "416390918442485_1031947123553525"
+         },
+         {
+            "message": "If you could give a penny to a friend and their luck would never end. Who would it be? Tag \u2018em! #NationalLuckyPennyDay",
+            "created_time": "2016-05-23T19:33:35+0000",
+            "id": "416390918442485_1030131487068422"
+         },
+         {
+            "message": "Hey Glendale, want to meet Ashley Nell Tipton Design AND get a free Sephora mini makeover? Join us at the InStyle salon tomorrow from 1-2pm.",
+            "created_time": "2016-05-23T18:11:47+0000",
+            "id": "416390918442485_1030091967072374"
+         },
+         {
+            "message": "Summer is (almost) here! Our basic necessities? Prints, bright colors, lightweight materials and sunnies, lots of sunnies. http://jcp.is/22iuxrE",
+            "created_time": "2016-05-20T21:42:08+0000",
+            "id": "416390918442485_1028337320581172"
+         },
+         {
+            "message": "Get a first look at \u0040MichaelStrahan's new athleisure line, #MSX , available in most stores this Friday. We're already in love! #MSXeverywear http://jcp.is/1Xmyg6I",
+            "story": "JCPenney shared Michael Strahan's live video.",
+            "created_time": "2016-05-18T23:49:32+0000",
+            "id": "416390918442485_1027173984030839"
+         },
+         {
+            "message": "Tunics. Colors. Patterns. Because date nights are rare, you deserve options. http://jcp.is/1Tfkvnx",
+            "created_time": "2016-05-14T20:30:00+0000",
+            "id": "416390918442485_1024079107673660"
+         },
+         {
+            "message": "Tomorrow's Friday! Ready for a night out? Make the most of your date night with these 3 tips! http://jcp.is/1Nsdocg",
+            "created_time": "2016-05-12T21:34:14+0000",
+            "id": "416390918442485_1023470201067884"
+         }
+      ],
+      "paging": {
+         "previous": "https://graph.facebook.com/v2.6/416390918442485/posts?since=1466613147&access_token=EAAOt19E3ZCckBAJm1rUB5YXKmaxrfZC8IPwiyo6QC5SVS90KknjZAP5kCZB4tLzxSMJ0ryDhlntqYDN6O520UIx1CQZC089QhAEJwQ5wMEW7j7PSgd5eBNKSqtZBJtPuAVbIcye40mIV8UxsT4uvGZBkuaUvNWGTcgZD&limit=25&__paging_token=enc_AdCP1QxfvvZBEajSfbXU8GBhBZCLER2ABKKr4zRkpPIvHkKvmFdMlpTE6lqanNcfQxYCEZA5CogOmjGHWz6UzhQ1KZBPFJbF3fSIXcJd3SMjxWRdbQZDZD&__previous=1",
+         "next": "https://graph.facebook.com/v2.6/416390918442485/posts?access_token=EAAOt19E3ZCckBAJm1rUB5YXKmaxrfZC8IPwiyo6QC5SVS90KknjZAP5kCZB4tLzxSMJ0ryDhlntqYDN6O520UIx1CQZC089QhAEJwQ5wMEW7j7PSgd5eBNKSqtZBJtPuAVbIcye40mIV8UxsT4uvGZBkuaUvNWGTcgZD&limit=25&until=1463088854&__paging_token=enc_AdDoMXOZCwAiKY9gldtdUYfAqEWQKh8v6sCDZBCEScd2sVIAYmLpCZAxpYBpoykZAvnTSR2KZAp8oIxBgj8SJmZAhNYNuavAq4N2CzRjkPTQOdZA8alOQZDZD"
+      }
+   },
+   "website": "http://www.jcpenney.com"
+}
