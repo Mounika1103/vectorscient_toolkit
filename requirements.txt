@@ -16,7 +16,7 @@ xlrd==0.9.4
 nltk==3.2
 attrdict==2.0.0
 reportlab==3.3.0
-PyYAML==3.11
+PyYAML==5.4
 
 # IP2Location
 #https://pypi.python.org/packages/source/I/IP2Location/ip2location-7.0.4.tar.gz
